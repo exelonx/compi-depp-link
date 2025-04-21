@@ -1,0 +1,28 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "W3NA86K772.com.compi.compiapp"
+                ],
+                "paths": [
+                    {
+                        "/": "/deeplink/app/*",
+                        "comment": "Manejar rutas específicas de deeplink para la app principal" 
+                    }
+                ],
+                "components": [
+                    {
+                        "/": "/*"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "W3NA86K772.com.compi.compiapp"
+        ]
+    }
+}
