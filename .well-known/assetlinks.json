@@ -8,7 +8,8 @@
             "package_name": "com.compi.app",
             "sha256_cert_fingerprints": [
                 "B9:55:9E:29:9A:81:1F:78:42:31:BD:6D:A5:B2:1E:24:D1:2D:10:34:3B:55:31:62:63:D9:20:69:0D:42:EA:10",
-                "F8:86:18:52:0A:FB:04:41:3C:B6:F9:3E:19:7A:0E:A4:0E:BD:CB:A8:45:04:10:10:5E:8A:E1:4B:41:66:A1:FC"
+                "F8:86:18:52:0A:FB:04:41:3C:B6:F9:3E:19:7A:0E:A4:0E:BD:CB:A8:45:04:10:10:5E:8A:E1:4B:41:66:A1:FC",
+                "1A:9F:D5:3D:CC:E2:2E:7A:8B:27:D9:FE:AD:DF:96:67:FC:B9:70:5B:A9:CD:D8:33:AB:1C:85:C3:DA:3B:CF:A2"
             ]
         }
     }
